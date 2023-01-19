@@ -8,7 +8,7 @@ Brian,
 Joaquín,
 Francisco,  FranIrles22 
 José María,
-Simon,
+Simon, SimonNicola
 Marco,
 Manuel, ManuelRodFP
 Aleksei,
